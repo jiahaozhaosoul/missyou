@@ -1,5 +1,7 @@
 package com.tian.missyou.model1;
 
+import com.tian.missyou.model.Spu;
+
 import javax.persistence.*;
 import java.util.List;
 
